@@ -1,0 +1,6 @@
+#required libraries
+1.numpy
+2.XGBOOST
+3.Matplotlip
+4.sklearn (models, ensemble and linear)/ scikit-learn
+5.pandas
